@@ -1,0 +1,8 @@
+yelp_info_api
+
+App ID
+uB9w615pDn3jY0WjMEaCPA
+
+App Secret
+yir0Horali1MNVBmw56VGf1UAoKKvfKkavqmgepZEo512gXeZH8gk7Hq18FCFTsf
+
